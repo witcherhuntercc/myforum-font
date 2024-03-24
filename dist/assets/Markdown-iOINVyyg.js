@@ -1,0 +1,1 @@
+import{_ as r,M as n,j as s,o as c,c as t,k as a}from"./index-78te5h-u.js";const d={components:{Markdown:n},data(){return{source:"# Hello World!"}}};function l(u,p,_,k,o,m){const e=s("Markdown",!0);return c(),t("div",null,[a(e,{source:o.source},null,8,["source"])])}const M=r(d,[["render",l]]);export{M as default};

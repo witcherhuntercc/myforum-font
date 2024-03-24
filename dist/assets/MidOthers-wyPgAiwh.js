@@ -1,0 +1,1 @@
+import{u,b as r,f as o}from"./index-78te5h-u.js";const _={__name:"MidOthers",setup(n){const t=u(),e=r();o(()=>{s()});const s=()=>{t.push({path:"/others",query:{id:e.query.id}})};return(a,c)=>null}};export{_ as default};
